@@ -1,0 +1,6 @@
+schema: '2.0'
+stages:
+  preprocessing:
+    cmd: python script1.py
+  postprocessing:
+    cmd: python script1.py
